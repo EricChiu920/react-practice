@@ -21,5 +21,6 @@
         "react"
     ],
     "rules": {
+        "arrow-body-style": "off"
     }
 }
